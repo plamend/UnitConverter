@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="units">
+        <item>cm</item>
+        <item>m</item>
+        <item>km</item>
+        <item>foot</item>
+        <item>In</item>
+        <item>yard</item>
+        <item>mile</item>
+
+
+    </string-array>
+</resources>
